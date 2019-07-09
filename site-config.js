@@ -13,10 +13,10 @@ module.exports = {
   app_keywords          : ["automatic", "gatsbyjs", "app", "landing page"],
 
   // Personal Info
-  your_name              : "Imed Adel",
+  your_name              : "Phill Savage",
   your_link              : "https://acemsthailand.com",
   your_city              : "Bangkok",
-  email_address          : "hello@imedadel.me",
+  email_address          : "phil.savage84@gmail.com",
   linkedin_username      : null,
   facebook_username      : null,
   instagram_username     : "ed_adel",
