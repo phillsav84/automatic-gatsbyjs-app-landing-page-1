@@ -14,8 +14,8 @@ module.exports = {
 
   // Personal Info
   your_name              : "Imed Adel",
-  your_link              : "https://imedadel.me",
-  your_city              : "Sousse",
+  your_link              : "https://acemsthailand.com",
+  your_city              : "Bangkok",
   email_address          : "hello@imedadel.me",
   linkedin_username      : null,
   facebook_username      : null,
